@@ -21,4 +21,5 @@ can be used to obtain a tidy dataset from the UCI HAR Dataset, as it returns a l
 as explained in the file CodeBook.md. This script can be used in the following way, at the R prompt:
 
 `> source("run_analysis.R")`
+
 `> my_dfs <- cleanData()`
