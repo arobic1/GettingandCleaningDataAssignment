@@ -8,6 +8,6 @@ The first element of the list returned by cleanData() is labelled "original data
 there are 73 columns, describing either the subject undergoing the measurements, the variables
 measured during the experiment and the different activities that the subject was doing.
 
-1. - [subjectid] The integer identifier of the person (subject) undergoing the tests, ranging from 1
+- [subjectid] The integer identifier of the person (subject) undergoing the tests, ranging from 1
 to 30.
 

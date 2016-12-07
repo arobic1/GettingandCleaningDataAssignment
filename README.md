@@ -20,5 +20,5 @@ run_analysis.R file is the R script that contains the function cleanData(). The 
 can be used to obtain a tidy dataset from the UCI HAR Dataset, as it returns a list of data.frames,
 as explained in the file CodeBook.md. This script can be used in the following way, at the R prompt:
 
-> source("run_analysis.R")
-> my_dfs <- cleanData()
+`> source("run_analysis.R")`
+`> my_dfs <- cleanData()`
